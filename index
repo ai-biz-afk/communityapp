@@ -163,7 +163,7 @@
   <button class="send-btn" id="send-btn" onclick="sendMessage()" disabled>➤</button>
 </div>
 <script>
-const GAS_URL = 'https://script.google.com/macros/s/AKfycbzygLyREdsukEl1Y4mu75JmAHUhF3GOPt5cms-iPsvc53bCjBInLp0YHNAnck4qN1hmyA/exec';
+const GAS_URL = 'https://script.google.com/macros/s/AKfycbzeizefr-k4QWrGUKB64BedinDUvqfjO0sjRsA01rZPVCYKPsXGNpqsmLlqQIpeif1s/exec';
 
 const STORAGE_KEY_DOC  = 'community_doc_content';
 const STORAGE_KEY_CHAT = 'community_chat_history';
